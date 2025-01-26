@@ -30,8 +30,8 @@ A real-time chatroom application where users can join chatrooms, interact with o
 - Accessible and easy to use on both desktop and mobile devices.
 
 ---
-![joinroom] (/client/src/images/joinroom.jpg)
-![chatroom] (/client/src/images/chatroom.jpg)
+![joinroom] (./client/src/images/joinroom.jpg)
+![chatroom] (./client/src/images/chatroom.jpg)
 
 ## Technology Stack
 
